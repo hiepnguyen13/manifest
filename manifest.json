@@ -1,0 +1,18 @@
+{
+  "name": "Decathlon",
+  "short_name": "Decathlon",
+  "display": "standalone",
+  "start_url": "https://decashop-develop.decathlon.sg",
+  "background_color": "#121212",
+  "theme_color": "#121212",
+  "prefer_related_applications": true,
+  "related_applications": [
+    {
+      "platform": "play",
+      "url": "https://play.google.com/store/apps/details?id=sg.decathlon.app",
+      "id": "sg.decathlon.app"
+    }
+  ]
+}
+
+
