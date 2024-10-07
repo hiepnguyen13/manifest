@@ -1,0 +1,11 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "sg.decathlon.app",
+        "paths": [ "/", "/search?query=*", "/c/*", "/p/*", "/s/*" ]
+      }
+    ]
+  }
+}
